@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.377706bb.css",
+    "main.js": "/static/js/main.aa39a893.js",
+    "static/media/brano.jpg": "/static/media/brano.51b7aaf0434e87b0e15e.jpg",
+    "static/media/Clip.png": "/static/media/Clip.c3b822b5104c1d433b50.png",
+    "static/media/Clip_bs.png": "/static/media/Clip_bs.a3cbbdc0f3588973cd25.png",
+    "static/media/Cliptwo.png": "/static/media/Cliptwo.61c1d2ecc63eeb866f69.png",
+    "static/media/Clip_bo.png": "/static/media/Clip_bo.fc88d8d0c942a6b1a193.png",
+    "static/media/Clipbk.png": "/static/media/Clipbk.f7ba31498cf666874f7b.png",
+    "static/media/photo.jpg": "/static/media/photo.9635add5045fcc314d71.jpg",
+    "static/media/imgSlider2.jpg": "/static/media/imgSlider2.c68578a5e3d43d756c9b.jpg",
+    "static/media/imgSlider3.jpg": "/static/media/imgSlider3.5e4c3fd31661808ca240.jpg",
+    "static/media/Package.jpg": "/static/media/Package.53eae5e9c9b502a2bc52.jpg",
+    "static/media/imgSlider1.jpg": "/static/media/imgSlider1.3b27ba48ddad9cb5bd45.jpg",
+    "static/media/Layer2.png": "/static/media/Layer2.d380d2e7b7aa10cc3aaa.png",
+    "static/media/logo.png": "/static/media/logo.d7577eeca8d569683261.png",
+    "static/media/Layer.png": "/static/media/Layer.363d24b627ba524a6331.png",
+    "static/media/MK.png": "/static/media/MK.52a87b0d6325df1b92b1.png",
+    "static/media/VisitImg.jpg": "/static/media/VisitImg.71626c9db4e43aafb491.jpg",
+    "static/media/smsImage.png": "/static/media/smsImage.41c8cd83866a0fb0066c.png",
+    "static/media/MkPartners.png": "/static/media/MkPartners.664718277fa078abbc0d.png",
+    "static/media/Our Misson  AR.jpg": "/static/media/Our Misson  AR.5620bd910d4ecc4f115b.jpg",
+    "static/media/Our Vision AR.jpg": "/static/media/Our Vision AR.570dc742d0f8610c22ed.jpg",
+    "static/media/Our Value AR.jpg": "/static/media/Our Value AR.9b5e4c99e27f55cb4669.jpg",
+    "static/media/download.png": "/static/media/download.7a0782a3e3209b92b41c.png",
+    "static/media/375x200 House Visit copy.png": "/static/media/375x200 House Visit copy.69d3640e6a8a01132af4.png",
+    "static/media/almokmore (1).png": "/static/media/almokmore (1).da6ba72dbf83693eb49d.png",
+    "static/media/download (1).png": "/static/media/download (1).41bab105547c605c120f.png",
+    "index.html": "/index.html",
+    "main.377706bb.css.map": "/static/css/main.377706bb.css.map",
+    "main.aa39a893.js.map": "/static/js/main.aa39a893.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377706bb.css",
+    "static/js/main.aa39a893.js"
+  ]
+}
